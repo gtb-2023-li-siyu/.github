@@ -3,13 +3,13 @@
 ### 我喜欢拍照记录生活~
 
 - #### 这是公园的小鸭子。  
-<img src="assets/duck.jpg" alt="duck" width="100%" />
+<img src="assets/duck.jpg" alt="duck" width="80%" />
 
 - #### 还有好吃的甜品
-![food](assets/food.jpg)  
+<img src="assets/food.jpg" alt="food" width="80%" />
 
 - #### 我的爱好是吉他和尤克里里弹唱~
-![guitar](assets/guitar.jpg)  
+<img src="assets/guitar.jpg" alt="guitar" width="80%" />
 
 ***
 大概就说这么多啦 over~~
